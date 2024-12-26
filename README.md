@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Matt 😁
 
-<!--
-**mmusiel/mmusiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Computer Science student at Arizona State University (4.21 GPA)  
+💻 IT professional with 10+ years of enterprise and technical support experience  
+🚀 Passionate about machine learning, robotics, and aerospace technology  
+🌟 Currently focused on C++ programming and systems development
 
-Here are some ideas to get you started:
+## Current Focus
+- Building small, focused C++ projects with algorithmic implementations 
+- Learning assembly language and digital design
+- Exploring machine learning concepts
+- Contributing to open source projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+**Professional:** Windows, macOS, Azure AD, ServiceNow, Enterprise Support  
+**Development:** C, C++, Python, Java, Prolog  
+**Learning:** Assembly Language, Digital Design
+
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mmusiel)
+
+---
+💡 Open to collaborating on C++ projects and connecting with others interested in robotics, ML, and aerospace!
