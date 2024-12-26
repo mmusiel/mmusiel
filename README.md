@@ -1,7 +1,7 @@
 # Hi, I'm Matt 😁
 
 ## About Me
-🎓 Computer Science student at Arizona State University (4.21 GPA)  
+🎓 Computer Science student at Arizona State University
 💻 IT professional with 10+ years of enterprise and technical support experience  
 🚀 Passionate about machine learning, robotics, and aerospace technology  
 🌟 Currently focused on C++ programming and systems development
