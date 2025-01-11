@@ -14,7 +14,7 @@
 
 ## Tech Stack
 **Professional:** Windows, macOS, Azure AD, ServiceNow, Enterprise Support  
-**Development:** C, C++, Python
+**Development:** C, C++, Python  
 **Learning:** Assembly Language, Digital Design
 
 ## Connect With Me
