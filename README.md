@@ -22,3 +22,6 @@
 
 ---
 💡 Open to collaborating on C++ projects and connecting with others interested in robotics, ML, and aerospace!
+
+---
+*My GitHub is a work in progress as I'm still learning. 😊*
